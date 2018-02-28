@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="a">Simple Calculator</string>
+    <string name="b">7</string>
+    <string name="c">8</string>
+    <string name="d">9</string>
+    <string name="e">+</string>
+    <string name="f">4</string>
+    <string name="g">5</string>
+    <string name="h">6</string>
+    <string name="i">-</string>
+    <string name="j">1</string>
+    <string name="k">2</string>
+    <string name="l">3</string>
+    <string name="m">*</string>
+    <string name="n">.</string>
+    <string name="o">0</string>
+    <string name="p">/</string>
+    <string name="q">CLEAR</string>
+    <string name="r">=</string>
+
+</resources>
